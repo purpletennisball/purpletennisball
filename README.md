@@ -1,6 +1,6 @@
 Teenage developer, designer, and YouTube creator in Canada.
 
-# What's Happening?
+# Projects
 ## LabelWorkshop
 LabelWorkshop is an iOS port of [TagStudio](https://github.com/TagStudioDev/TagStudio)
 ## PowerBots
