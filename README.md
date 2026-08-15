@@ -2,7 +2,7 @@ Teenage developer, designer, and YouTube creator in Canada.
 
 # Projects
 ## LabelWorkshop
-LabelWorkshop is an iOS port of [TagStudio](https://github.com/TagStudioDev/TagStudio)
+[LabelWorkshop](https://github.com/LabelWorkshop/ios) is an iOS port of [TagStudio](https://github.com/TagStudioDev/TagStudio)
 ## PowerBots
 PowerBots is an ecosystem of several Discord bots used to empower your server. [Check it out.](https://github.com/Power-Bots)
 ## Website
